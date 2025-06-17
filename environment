@@ -1,0 +1,2 @@
+create an environment file in the same directory of the project as .env and stor all your secrect key api there 
+for example GEMINI_API_KEY="your api key " 
